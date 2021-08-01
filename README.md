@@ -11,3 +11,7 @@ Alternatively you can also run:
 python main_frame.py
 ```
 
+in terminal.
+
+#### Happy Analyzing!
+
