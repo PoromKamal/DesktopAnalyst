@@ -13,5 +13,11 @@ python main_frame.py
 
 in terminal.
 
+# Sources
+
+The industry median ratios data set that was used in this project were from these websites:  
+* https://csimarket.com/ 
+* https://www.gurufocus.com/ 
+* https://www.readyratios.com/sec/industry/48/
 #### Happy Analyzing!
 
