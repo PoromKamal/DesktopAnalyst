@@ -19,5 +19,9 @@ The industry median ratios data set that was used in this project were from thes
 * https://csimarket.com/ 
 * https://www.gurufocus.com/ 
 * https://www.readyratios.com/sec/industry/48/
+# Contributors
+Porom Kamal (SWE)
+Adib Ahmed (Technical Analyst/Trading Strategist)
+
 #### Happy Analyzing!
 
