@@ -24,5 +24,7 @@ Porom Kamal (SWE)
 
 Adib Ahmed (Technical Analyst/Trading Strategist)
 
+Ryan Ramroop (SWE)
+
 #### Happy Analyzing!
 
