@@ -19,6 +19,12 @@ The industry median ratios data set that was used in this project were from thes
 * https://csimarket.com/ 
 * https://www.gurufocus.com/ 
 * https://www.readyratios.com/sec/industry/48/
+
+# Profitech Hackathon
+Submission for Profitech hackathon.
+
+Earned 3rd Place Overall out of 250+ Teams.
+
 # Contributors
 Porom Kamal (SWE)
 
