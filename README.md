@@ -28,9 +28,9 @@ Earned 3rd Place Overall out of 250+ Teams.
 # Contributors
 Porom Kamal (SWE)
 
-Adib Ahmed (Technical Analyst/Trading Strategist)
-
 Ryan Ramroop (SWE)
+
+Adib Ahmed (Technical Analyst/Trading Strategist)
 
 #### Happy Analyzing!
 
