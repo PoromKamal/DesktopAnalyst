@@ -25,12 +25,5 @@ Submission for Profitech hackathon.
 
 Earned 3rd Place Overall out of 250+ Teams.
 
-# Contributors
-Porom Kamal (SWE)
-
-Ryan Ramroop (SWE)
-
-Adib Ahmed (Technical Analyst/Trading Strategist)
-
 #### Happy Analyzing!
 
